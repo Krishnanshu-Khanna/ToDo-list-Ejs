@@ -1,6 +1,8 @@
 # To-Do List Web App
 
 This project is a simple To-Do List web application created using create-react-app. The application allows users to manage and track their tasks efficiently.
+![Screenshot 2023-12-17 005655](https://github.com/Krishnanshu-Khanna/ToDo-list-Ejs/assets/121768209/20d25ae1-8564-4348-acd8-730a2937ec79)
+
 
 ## Table of Contents
 
